@@ -1,0 +1,17 @@
+.header-section{
+    height: 600px;
+    background-color: #264653;
+}
+.btn-bg{
+    background-color: #E76F51;
+    color: white;
+    outline: white;
+    font-weight: bold;
+
+}
+.w-30{
+    width: 30.30%!important;
+}
+.solid-svg{
+    width: 20px;
+}
